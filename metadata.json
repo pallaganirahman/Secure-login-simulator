@@ -1,0 +1,6 @@
+{
+  "name": "Secure Login System",
+  "description": "A secure login web application with hashed passwords, input validation, SQL injection protection, session management, and optional two-factor authentication (2FA).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
